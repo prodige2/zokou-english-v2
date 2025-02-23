@@ -1,24 +1,24 @@
-# Zokou-2.0 🚀
+# ꧁☬P̷r̷o̷༒𝖉𝖎𝖌𝖊☬꧂
 
-Zokou is a multi-device bot designed to enhance your WhatsApp conversations with useful and fun features. Whether it’s managing files, interacting with stickers, or facilitating group management, Zokou is here to assist you!
+꧁☬P̷r̷o̷༒𝖉𝖎𝖌𝖊☬꧂ is a multi-device bot designed to enhance your WhatsApp conversations with useful and fun features. Whether it’s managing files, interacting with stickers, or facilitating group management, ꧁☬P̷r̷o̷༒𝖉𝖎𝖌𝖊☬꧂ is here to assist you!
 
 ## Key Features ✨
 
-- **File Download:** Zokou can download audio and video files from links you send, making it easy to share them with your contacts. 🎶📹
+- **File Download:** ꧁☬P̷r̷o̷༒𝖉𝖎𝖌𝖊☬꧂ can download audio and video files from links you send, making it easy to share them with your contacts. 🎶📹
 
-- **Sticker Export:** You can export stickers from Telegram and use them in your WhatsApp conversations by simply sending them to Zokou. 😄✨
+- **Sticker Export:** You can export stickers from Telegram and use them in your WhatsApp conversations by simply sending them to ꧁☬P̷r̷o̷༒𝖉𝖎𝖌𝖊☬꧂. 😄✨
 
-- **Group Management:** Zokou offers group management features like adding or removing members, configuring rules, and other settings. 👥📋
+- **Group Management:** ꧁☬P̷r̷o̷༒𝖉𝖎𝖌𝖊☬꧂ offers group management features like adding or removing members, configuring rules, and other settings. 👥📋
 
 - **Text to Image:** The best logos have been selected for your convenience. 🖼️🎨
 
 ## Fun Features 🎉
 
-- **Jokes and Riddles:** Zokou comes with a collection of jokes and riddles to add fun to your conversations. 😂🤔
+- **Jokes and Riddles:** ꧁☬P̷r̷o̷༒𝖉𝖎𝖌𝖊☬꧂ comes with a collection of jokes and riddles to add fun to your conversations. 😂🤔
 
 - **Inspiring Quotes:** Receive inspiring quotes daily to motivate you. 💪🌟
 
-## How to Get Zokou 🛠️
+## How to Get ꧁☬P̷r̷o̷༒𝖉𝖎𝖌𝖊☬꧂ 🛠️
 
 1. Click on **[Fork](https://github.com/Luffy2ndAccount/zokou-english-v2/fork)** to copy the repo to your GitHub account. Don’t forget to add a star 🌟 to encourage the developers.
 
